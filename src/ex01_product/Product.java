@@ -27,11 +27,6 @@ public class Product {
       return remainder;
 
     }
-
-
-
-
-
     public String getName() {
         return name;
     }
